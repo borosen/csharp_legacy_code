@@ -1,0 +1,8 @@
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\bin\Debug\netcoreapp3.1\MovieRentals.deps.json
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\bin\Debug\netcoreapp3.1\MovieRentals.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\bin\Debug\netcoreapp3.1\MovieRentals.pdb
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\obj\Debug\netcoreapp3.1\MovieRentals.csprojAssemblyReference.cache
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\obj\Debug\netcoreapp3.1\MovieRentals.AssemblyInfoInputs.cache
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\obj\Debug\netcoreapp3.1\MovieRentals.AssemblyInfo.cs
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\obj\Debug\netcoreapp3.1\MovieRentals.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\MovieRentals\obj\Debug\netcoreapp3.1\MovieRentals.pdb

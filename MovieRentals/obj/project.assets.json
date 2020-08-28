@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\LegacyCode.csproj",
-      "projectName": "LegacyCode",
-      "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\LegacyCode.csproj",
+      "projectUniqueName": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\MovieRentals.csproj",
+      "projectName": "MovieRentals",
+      "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\MovieRentals.csproj",
       "packagesPath": "C:\\Users\\jasongorman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\obj\\",
+      "outputPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jasongorman\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCode", "LegacyCode\LegacyCode.csproj", "{D5D1A51C-654B-4F58-9DFE-D4A2DB661775}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRentals", "MovieRentals\MovieRentals.csproj", "{D5D1A51C-654B-4F58-9DFE-D4A2DB661775}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Console", "Test.Console\Test.Console.csproj", "{AD8A0A86-2C01-4BDD-AA52-4F6ECA6E7A94}"
 EndProject

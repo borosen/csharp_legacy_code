@@ -16,8 +16,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\LegacyCode.csproj": {
-            "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\LegacyCode.csproj"
+          "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\MovieRentals.csproj": {
+            "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\MovieRentals.csproj"
           }
         }
       }

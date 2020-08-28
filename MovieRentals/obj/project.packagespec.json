@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\LegacyCode.csproj",
-    "projectName": "LegacyCode",
-    "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\LegacyCode.csproj",
-    "outputPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\LegacyCode\\obj\\",
+    "projectUniqueName": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\MovieRentals.csproj",
+    "projectName": "MovieRentals",
+    "projectPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\MovieRentals.csproj",
+    "outputPath": "C:\\Users\\jasongorman\\RiderProjects\\LegacyCode\\MovieRentals\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

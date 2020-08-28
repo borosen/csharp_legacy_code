@@ -1,3 +1,9 @@
+cd..
+
+dotnet build
+
+cd Test.Console
+
 echo "start: " %time%
 
 "bin/Debug/netcoreapp3.1/Test.Console.exe" tt0096754 jgorman

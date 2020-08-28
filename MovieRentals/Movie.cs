@@ -1,4 +1,4 @@
-﻿namespace TestPyramid
+﻿namespace MovieRentals
 {
     internal class Movie
     {

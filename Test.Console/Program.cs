@@ -1,4 +1,4 @@
-﻿using TestPyramid;
+﻿using MovieRentals;
 
 namespace Test.Console
 {

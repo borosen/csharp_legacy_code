@@ -1,0 +1,14 @@
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\Test.Console.exe
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\Test.Console.deps.json
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\Test.Console.runtimeconfig.json
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\Test.Console.runtimeconfig.dev.json
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\Test.Console.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\Test.Console.pdb
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\LegacyCode.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\bin\Debug\netcoreapp3.1\LegacyCode.pdb
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\obj\Debug\netcoreapp3.1\Test.Console.csprojAssemblyReference.cache
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\obj\Debug\netcoreapp3.1\Test.Console.AssemblyInfoInputs.cache
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\obj\Debug\netcoreapp3.1\Test.Console.AssemblyInfo.cs
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\obj\Debug\netcoreapp3.1\Test.Console.csproj.CopyComplete
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\obj\Debug\netcoreapp3.1\Test.Console.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\Test.Console\obj\Debug\netcoreapp3.1\Test.Console.pdb

@@ -1,0 +1,8 @@
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\bin\Debug\netcoreapp3.1\LegacyCode.deps.json
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\bin\Debug\netcoreapp3.1\LegacyCode.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\bin\Debug\netcoreapp3.1\LegacyCode.pdb
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\obj\Debug\netcoreapp3.1\LegacyCode.csprojAssemblyReference.cache
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\obj\Debug\netcoreapp3.1\LegacyCode.AssemblyInfoInputs.cache
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\obj\Debug\netcoreapp3.1\LegacyCode.AssemblyInfo.cs
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\obj\Debug\netcoreapp3.1\LegacyCode.dll
+C:\Users\jasongorman\RiderProjects\LegacyCode\LegacyCode\obj\Debug\netcoreapp3.1\LegacyCode.pdb
